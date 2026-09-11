@@ -11,6 +11,11 @@ research problem.
 
 ### Writing
 
+**[From retrieval to state: rethinking long-term memory for AI agents](https://lyr-ai.github.io/from-retrieval-to-state/)**
+An agent can retrieve the right memory and still be wrong about the present.
+Why long-term memory is not a retrieval problem, and what it takes to decide
+what remains true after a history of changes, contradictions and decisions.
+
 **[12 of 13 runs reached the exact same code state, then ended 11 different ways](https://lyr-ai.github.io/agents-diverge-at-temperature-zero/)**
 Twelve of thirteen executions of the same coding agent converged on one
 identical intermediate repository state, then ended in eleven distinct final
@@ -24,7 +29,8 @@ More at **[lyr-ai.github.io](https://lyr-ai.github.io)** · [RSS](https://lyr-ai
 | | |
 |---|---|
 | **[AgentSeism](https://github.com/lyr-ai/agentseism)** | Localizing where LLM-agent executions are behaviorally fragile. Repeated runs, execution-feature projection, and which feature variations actually track the outcome. Association, not causation — intervention is the next phase. |
-| **[TypedMem](https://github.com/lyr-ai/typedmem)** | Schema-aware typed memory for AI agents. |
+| **[TypedMem](https://github.com/lyr-ai/typedmem)** | Schema-aware typed memory for AI agents: what an agent carries between steps, and what that does to its behavior. |
+| **[ReliAgent Bench](https://github.com/lyr-ai/reliagent-bench)** | A reproducible reliability benchmark for memory-enabled agents — the harness whose failures drove the memory work. |
 | **[LYR](https://github.com/lyr-ai/lyr)** | A layered knowledge engine. |
 
 ### What I am working on now
